@@ -18,7 +18,7 @@ pip install sqlite3
 pip install pyTelegramBotAPI
 pip install colorama
 pip install won_to_ruble
-Создайте телеграм-бота и получите токен API от BotFather.
+Создайте телеграм-бота и получите токен API от BotFather. 
 
 Замените API в вашем коде на полученный токен.
 
